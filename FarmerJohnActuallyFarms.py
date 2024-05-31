@@ -1,0 +1,2 @@
+class asparagusFarm:
+    farm = "yay"
